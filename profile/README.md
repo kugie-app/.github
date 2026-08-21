@@ -1,136 +1,57 @@
-# Kugie 🚀
+# Kugie
 
-> **Scale Smarter, Not Harder**
+Jasa pembuatan aplikasi. Software house. Tim IT.
 
-Welcome to Kugie's GitHub organization! We're an Indonesian digital solutions company on a mission to make advanced technology accessible to businesses of all sizes through smart, human-centered solutions.
+**Two senior heads. Not a rotating bench.**
 
-[![Website](https://img.shields.io/badge/Website-kugie.app-blue)](https://kugie.app)
-[![Email](https://img.shields.io/badge/Email-partnership%40kugie.app-red)](mailto:partnership@kugie.app)
-[![Instagram](https://img.shields.io/badge/Instagram-%40kugie.app-E4405F?logo=instagram&logoColor=white)](https://instagram.com/kugie.app)
+You searched jasa pembuatan aplikasi, software house, or tim IT. You get Setasena and Gerald. We stay after launch. The site and the database sit in your name.
 
-## 🎯 Our Mission
+Kugie is the brand of PT Semesta Solusi Digital. Indonesian lifestyle and F&B brands hire us as their ongoing tech team. We are not a one-off website shop.
 
-Empowering businesses of all sizes with flexible, tailored digital solutions and innovative products that enable smart, efficient, and sustainable growth, making advanced technological capabilities universally available.
+[kugie.app](https://kugie.app) · [partnership@kugie.app](mailto:partnership@kugie.app)
 
-## 💡 What We Do
+## Own your data
 
-At Kugie, we believe that impactful technology doesn't have to be expensive—it just needs to be smart. We specialize in:
+Marketplaces are a good way to start selling in Indonesia. They are a harder way to keep selling. Tokopedia, Shopee, and TikTok Shop hand you a masked buyer and keep the relationship.
 
-- **🌐 Web & App Development** - Custom solutions tailored to your business needs, built for scalability and performance
-- **📊 Analytics Dashboard Solutions** - Transform raw data into actionable insights for data-driven decisions
-- **📝 Custom Content Management Systems** - Intuitive, secure, and scalable platforms for seamless content management
-- **🔧 24/7 Support** - Round-the-clock assistance ensuring uninterrupted operations
+We provision the cloud account and the database in your name. We hold admin. You hold the account. On exit you keep the site, the database, the data in it, and the pipelines that fill it, under a perpetual licence.
 
-## 🛠️ Our Open Source Products
+## How we work
 
-We believe in building tools that solve real problems. Here are our flagship open-source projects:
+A jasa tim IT you can name. Two senior heads, week after week. Not a bench that rotates off your account after kickoff.
 
-### [Summit Finance](https://github.com/kugie-app/summit)
-Our flagship open-source, self-hosted financial management tool for freelancers, small businesses, and agencies.
+Website, loyalty, analytics, payments, content, internal tools. One partner. One technical vision that holds.
 
-**Features:**
-- 📄 Effortless invoicing & payment tracking
-- 💰 Income & expense management
-- 🏪 Vendor management
-- 🔄 Recurring transactions
-- 📊 Financial dashboard & reporting
-- 🚪 Client portal with magic link authentication
-- 👥 Team management with role-based permissions
+Retainers start at IDR 8M per month. Kickoff is IDR 15M to 25M. Three-month minimum. Embedded is IDR 25M. Plus from IDR 40M. We publish the number. We do not invent a market gaji.
 
-**Tech Stack:** Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui, Drizzle ORM, PostgreSQL
+## Who we work with
 
-### [Chalkboard](https://chalkboard.id)
-Modern billiard hall management software designed to help you manage operations efficiently.
+Documented paying clients. Nothing padded.
 
-### Kambium
-Website builder for creating and managing your online presence.
+- **Arutala Coffee.** Storefront and loyalty on a database in their name.
+- **Loves Semprong.** Wholesale orders moved off WhatsApp onto their own store.
+- **Kanata.** Marketplace sales pulled into a database registered to them.
+- **Klaai Jasa Terintegrasi.** Swift Bite meal tracking for work sites.
+- **Sociall Space.** Cafe and coworking. Order and customer tools on their own stack.
 
-### Power Invoice
-E-commerce invoice analytics and customer loyalty system that integrates with major Indonesian platforms (Shopee, Tokopedia, TikTok Shop).
+## Open source
 
-### Gravity Bloom
-*(Coming soon)*
+Public repos we maintain. Not the commercial catalog, and not what we lead with.
 
-## 🌟 Why Choose Kugie?
+- **[Summit](https://github.com/kugie-app/summit).** Self-hostable invoicing and financial management. Grandfathered. We keep it running. We do not sell it as new. It is not the company flagship.
+- **[Chalkboard](https://github.com/kugie-app/chalkboard.id).** Archived. Billiard hall management. Open source, not a product we sell.
 
-### 💎 Full Data Ownership
-Unlike others who lock you into their ecosystems, we build solutions where **you own your database**. Your data stays with you, forever. No restrictions, unlimited potential, truly future-proof.
+## People
 
-### 🤝 Enterprise Experience, Startup Agility
-Our team brings experience from established corporations like **Traveloka, Deloitte, L'Oréal, TikTok, and BCA**, fused with the agile spirit of startups.
+Past employers of the team, not past clients: Traveloka, Google, BCA.
 
-### 🎯 Budget-Conscious, Not Low Quality
-We're often perceived as "cheap," but this is a deliberate choice. We focus on delivering maximum value by tailoring services to fit your financial constraints without compromising quality or innovation.
+- **Setasena Randata Ramadanie**, CEO. Traveloka, Google. [setasena@kugie.app](mailto:setasena@kugie.app)
+- **Gerald Akbar**, CTO. BCA, Indodana. [gerald@kugie.app](mailto:gerald@kugie.app)
+- **Adeline**, part-time UX/UI
+- **Zayyan**, intern, Product Developer
 
-### 🔄 Long-Term Partnership
-We don't just deliver and disappear. Kugie stays by your side as both your trusted partner and genuine friend, invested in your long-term prosperity.
+## Contact
 
-## 🏆 Our Values
-
-- **Integrity** - Honesty, transparency, and accountability in all business dealings
-- **Client-Centricity** - Deeply understanding and tailoring services to meet unique needs
-- **Innovation & Excellence** - Pursuing cutting-edge technologies and maintaining highest standards
-- **Reliability** - Providing consistent, round-the-clock support
-- **Flexibility** - Offering adaptable solutions and payment options for every growth stage
-
-## 📈 Impact by Numbers
-
-- **Websites Launched:** 15+
-- **Monthly Unique Users Served:** 100k+
-- **Uptime (Last 12 Months):** 99.9%
-
-## 🤝 Featured Clients
-
-We're proud to work with innovative businesses including:
-- **Arutala Coffee** - Data-driven customer insights and loyalty programs
-- **Sociall Space** - Campus coffee shop analytics and customer management
-- **PT. Klaai Jasa Terintegrasi** - Meal operations platform serving 80+ companies
-- **CV. Palayu Mandiri** - Digital transformation solutions
-
-## 👥 Our Team
-
-Led by experienced professionals who bring diverse expertise:
-
-- **Setasena Randata Ramadanie** - Founder & Engineering Manager (ex-Traveloka, BNN)
-- **Alfina Azaria** - Product Manager (ex-Banking, Deloitte)
-- **Callista Jinan Ayudya** - Head of Marketing (ex-L'Oréal, TikTok content strategist)
-- **Gerald Akbar** - Founding & Product Engineer (ex-Indodana, BCA, Google Bangkit Academy)
-
-## 🚀 Get Started
-
-We're always looking for contributors and collaborators! Here's how you can get involved:
-
-1. **Explore our repositories** - Check out our open-source projects
-2. **Contribute** - Submit issues, pull requests, or improvements
-3. **Star our projects** - Help us grow the community
-4. **Reach out** - Have a project idea or want to collaborate? Contact us!
-
-## 💬 Connect With Us
-
-- **Website:** [kugie.app](https://kugie.app)
-- **Email:** [partnership@kugie.app](mailto:partnership@kugie.app)
-- **Instagram:** [@kugie.app](https://instagram.com/kugie.app)
-- **Documentation:** [docs.kugie.app](https://docs.kugie.app)
-- **Clutch:** [clutch.co/profile/kugie](https://clutch.co/profile/kugie)
-- **G2:** [g2.com/products/kugie-app](https://www.g2.com/products/kugie-app)
-- **GoodFirms:** [goodfirms.co/company/kugie-app](https://www.goodfirms.co/company/kugie-app)
-
-## 📝 Contributing
-
-We welcome contributions! Whether it's bug fixes, feature enhancements, or documentation improvements, we appreciate your help. Please reach out to us or check individual repository guidelines.
-
-## 📄 License
-
-Individual projects may have different licenses. Please check each repository for specific licensing information.
-
----
-
-<div align="center">
-
-**Proudly Built in Indonesia 🇮🇩**
-
-*Making scalable growth accessible to all*
-
-[Book a Free Consultation](https://cal.com/kugie.app/30min) • [View Our Work](https://kugie.app/work) • [Read Our Blog](https://kugie.app/blog)
-
-</div>
+- Site: [kugie.app](https://kugie.app)
+- Partnerships: [partnership@kugie.app](mailto:partnership@kugie.app)
+- Instagram: [@kugie.app](https://instagram.com/kugie.app)
