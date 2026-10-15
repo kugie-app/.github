@@ -4,7 +4,7 @@
 
 Kugie is the embedded tech team for Indonesian lifestyle and F&B brands. We sit inside your team, run the full digital stack, and stay for the long term. Not a vendor. Not a one-off website shop.
 
-Kugie is the brand of [PT Semesta Solusi Digital](https://semestasolusidigital.com), founded by [Setasena Randata](mailto:setasena@kugie.app) (CEO) and [Gerald Akbar](mailto:gerald@kugie.app) (CTO).
+Kugie is the brand of [PT Semesta Solusi Digital](https://semestasolusidigital.com), founded by Setasena Randata (CEO) and Gerald Akbar (CTO).
 
 [kugie.app](https://kugie.app) · [Work](https://kugie.app/work) · [Products](https://kugie.app/products) · [Pricing](https://kugie.app/pricing) · [partnership@kugie.app](mailto:partnership@kugie.app)
 
@@ -18,7 +18,7 @@ One partner, one technical vision, the whole stack. Your data stays with you: wh
 
 Our own software, and the engine behind most client work.
 
-- **[Swivel](https://kugie.app/products/swivel)**: turn marketplace buyers into loyal customers. An agentic e-commerce CRM that converts masked Tokopedia, Shopee, and TikTok Shop buyers into owned loyalty relationships. Import, convert, reward.
+- **[Swivel](https://swivel.id)**: turn marketplace buyers into loyal customers. An agentic e-commerce CRM that converts masked Tokopedia, Shopee, and TikTok Shop buyers into owned loyalty relationships. Import, convert, reward. Also on [kugie.app](https://kugie.app/products/swivel).
 - **[Terradium](https://terradium.io)**: be the source AI quotes. A multi-agent content platform that plans, researches, writes, and publishes, built for visibility inside AI answers, not just search rankings. Also on [kugie.app](https://kugie.app/products/terradium), with a [Cursor plugin](https://github.com/kugie-app/terradium-cursor-plugin).
 
 ## Clients
