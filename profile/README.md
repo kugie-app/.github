@@ -1,57 +1,50 @@
 # Kugie
 
-Jasa pembuatan aplikasi. Software house. Tim IT.
+**Built from the inside.**
 
-**Two senior heads. Not a rotating bench.**
+Kugie is the embedded tech team for Indonesian lifestyle and F&B brands. We sit inside your team, run the full digital stack, and stay for the long term. Not a vendor. Not a one-off website shop.
 
-You searched jasa pembuatan aplikasi, software house, or tim IT. You get Setasena and Gerald. We stay after launch. The site and the database sit in your name.
+Kugie is the brand of [PT Semesta Solusi Digital](https://semestasolusidigital.com), founded by Setasena Randata (CEO) and Gerald Akbar (CTO).
 
-Kugie is the brand of PT Semesta Solusi Digital. Indonesian lifestyle and F&B brands hire us as their ongoing tech team. We are not a one-off website shop.
+[kugie.app](https://kugie.app) · [Work](https://kugie.app/work) · [Products](https://kugie.app/products) · [Pricing](https://kugie.app/pricing) · [partnership@kugie.app](mailto:partnership@kugie.app)
 
-[kugie.app](https://kugie.app) · [partnership@kugie.app](mailto:partnership@kugie.app)
+## What we run for a brand
 
-## Own your data
+Web and e-commerce · Loyalty and CRM · Analytics and BI · Payments · Content and SEO · Internal tools · AI integration
 
-Marketplaces are a good way to start selling in Indonesia. They are a harder way to keep selling. Tokopedia, Shopee, and TikTok Shop hand you a masked buyer and keep the relationship.
+One partner, one technical vision, the whole stack. Your data stays with you: when an engagement ends, you keep every system we built and every row in it.
 
-We provision the cloud account and the database in your name. We hold admin. You hold the account. On exit you keep the site, the database, the data in it, and the pipelines that fill it, under a perpetual licence.
+## Products
 
-## How we work
+Our own software, and the engine behind most client work.
 
-A jasa tim IT you can name. Two senior heads, week after week. Not a bench that rotates off your account after kickoff.
+- **[Swivel](https://swivel.id)**: turn marketplace buyers into loyal customers. An agentic e-commerce CRM that converts masked Tokopedia, Shopee, and TikTok Shop buyers into owned loyalty relationships. Import, convert, reward. Also on [kugie.app](https://kugie.app/products/swivel).
+- **[Terradium](https://terradium.io)**: be the source AI quotes. A multi-agent content platform that plans, researches, writes, and publishes, built for visibility inside AI answers, not just search rankings. Also on [kugie.app](https://kugie.app/products/terradium), with a [Cursor plugin](https://github.com/kugie-app/terradium-cursor-plugin).
 
-Website, loyalty, analytics, payments, content, internal tools. One partner. One technical vision that holds.
+## Clients
 
-Retainers start at IDR 8M per month. Kickoff is IDR 15M to 25M. Three-month minimum. Embedded is IDR 25M. Plus from IDR 40M. We publish the number. We do not invent a market gaji.
+Brands we are embedded with. One client per vertical. Full case studies at [kugie.app/work](https://kugie.app/work).
 
-## Who we work with
-
-Documented paying clients. Nothing padded.
-
-- **Arutala Coffee.** Storefront and loyalty on a database in their name.
-- **Loves Semprong.** Wholesale orders moved off WhatsApp onto their own store.
-- **Kanata.** Marketplace sales pulled into a database registered to them.
-- **Klaai Jasa Terintegrasi.** Swift Bite meal tracking for work sites.
-- **Sociall Space.** Cafe and coworking. Order and customer tools on their own stack.
+- **[Acsent](https://kugie.app/work/acsent)**: AI IELTS and TOEFL prep. Terradium builds and tracks their presence inside AI answers.
+- **[Loves Semprong](https://kugie.app/work/loves-semprong)**: Indonesian snack brand. Own storefront at [lovessemprong.com](https://lovessemprong.com), tier pricing for resellers and agents, and an operations platform. Prototype in April, live by July.
+- **[Kanata Indonesia](https://kugie.app/work/kanata)**: standing desks. An own-store path, a marketplace order pipeline into a database they own, and a content engine.
+- **[Arutala Coffee](https://kugie.app/work/arutala)**: web, CMS, analytics, and loyalty on Swivel. 1,091 loyalty members, 35.7% repeat purchase rate.
+- **[PT Klaai Jasa Terintegrasi](https://kugie.app/work/klaai)**: Swift Bite tap-to-track meal tracking with automated invoicing. 30,617+ meal transactions across 80+ companies.
+- **[Sociall Space](https://kugie.app/work/sociallspace)**: cafe and coworking. Swivel loyalty and analytics. 8.8% AOV increase.
+- **[STARA](https://kugie.app/work/stara)**: co-creation with disabled professionals. Website, design system, and CMS.
 
 ## Open source
 
-Public repos we maintain. Not the commercial catalog, and not what we lead with.
+- **[Summit](https://github.com/kugie-app/summit)**: self-hostable invoicing and financial management. [summitfinance.app](https://summitfinance.app)
+- **[Chalkboard](https://github.com/kugie-app/chalkboard.id)**: open-source billiard hall management. [chalkboard.id](https://chalkboard.id)
 
-- **[Summit](https://github.com/kugie-app/summit).** Self-hostable invoicing and financial management. Grandfathered. We keep it running. We do not sell it as new. It is not the company flagship.
-- **[Chalkboard](https://github.com/kugie-app/chalkboard.id).** Archived. Billiard hall management. Open source, not a product we sell.
+## Team
 
-## People
+Our team has shipped products at Traveloka, Google, and BCA. That experience is how we read your business, not a claim about past clients.
 
-Past employers of the team, not past clients: Traveloka, Google, BCA.
-
-- **Setasena Randata Ramadanie**, CEO. Traveloka, Google. [setasena@kugie.app](mailto:setasena@kugie.app)
-- **Gerald Akbar**, CTO. BCA, Indodana. [gerald@kugie.app](mailto:gerald@kugie.app)
-- **Adeline**, part-time UX/UI
-- **Zayyan**, intern, Product Developer
+- **Setasena Randata**, CEO and founder. Ex Traveloka, Google.
+- **Gerald Akbar**, CTO and co-founder. Ex BCA, Indodana.
 
 ## Contact
 
-- Site: [kugie.app](https://kugie.app)
-- Partnerships: [partnership@kugie.app](mailto:partnership@kugie.app)
-- Instagram: [@kugie.app](https://instagram.com/kugie.app)
+[Start the assessment](https://kugie.app/contact/work) · [partnership@kugie.app](mailto:partnership@kugie.app) · [Instagram](https://instagram.com/kugie.app) · [LinkedIn](https://www.linkedin.com/company/kugie) · [Dribbble](https://dribbble.com/kugie)
